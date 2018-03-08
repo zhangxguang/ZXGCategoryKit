@@ -22,7 +22,7 @@ pod 'ZXGCategory'
 
 ## Author
 
-张祥光, 326598341@qq.com
+zxg, 326598341@qq.com
 
 ## License
 
