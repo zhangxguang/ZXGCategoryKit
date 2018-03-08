@@ -1,0 +1,22 @@
+{
+  "name": "ZXGCategory",
+  "version": "0.1.0",
+  "summary": "A short description of ZXGCategory.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/张祥光/ZXGCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "张祥光": "326598341@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/张祥光/ZXGCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZXGCategory/Classes/**/*"
+}

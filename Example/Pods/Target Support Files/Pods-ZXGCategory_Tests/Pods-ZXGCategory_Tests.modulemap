@@ -1,0 +1,6 @@
+framework module Pods_ZXGCategory_Tests {
+  umbrella header "Pods-ZXGCategory_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

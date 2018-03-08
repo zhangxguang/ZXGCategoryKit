@@ -1,0 +1,6 @@
+framework module ZXGCategory {
+  umbrella header "ZXGCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}
